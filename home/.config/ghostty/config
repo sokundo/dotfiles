@@ -1,0 +1,7 @@
+# Ghostty — Graphite theme, decoration off (effective settings from the
+# original ~/.config/ghostty/config.ghostty; the old `theme = ii-auto`
+# file was stale iNiR output and is intentionally not included).
+theme = Graphite
+window-width = 110
+window-height = 25
+window-decoration = none

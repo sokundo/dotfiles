@@ -1,0 +1,21 @@
+# Editor / OS noise
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+
+# Local overrides and backups
+*.bak
+*.orig
+*.local
+home/.config/gtk-4.0/gtk.css.bak
+
+# Never commit secrets
+.env
+.env.*
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+known_hosts
