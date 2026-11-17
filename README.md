@@ -15,7 +15,7 @@ My gnome dotfiles
 - transparent top bar (adjustable transparency)
 - user themes
 - better tray icons
-- WACk - sonoma lockscreen
+- WACK - sonoma lockscreen
 
 ## Layout
 
