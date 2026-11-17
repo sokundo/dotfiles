@@ -6,7 +6,7 @@ My gnome dotfiles
 <img src="./Screenshot/screenshot" alt="screenshot">
 
 ## Software
-- Ghostty ternimal with graphite theme and window decorations removed through setting.
+- Ghostty ternimal with graphite theme and window decorations removed in config.
 - zsh shell + oh my zsh and starship
 
 ## GTK theme
