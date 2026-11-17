@@ -29,6 +29,7 @@ home/                                 mirrors $HOME
 ├── .gtkrc-2.0                        GTK2 settings
 ├── .config/
 │   ├── ghostty/config                Ghostty (Graphite theme, no decoration)
+│   ├── fastfetch/config.jsonc        Fastfetch config
 │   ├── starship.toml                 prompt
 │   ├── gtk-3.0/settings.ini          GTK3 theme + prefer-dark
 │   └── gtk-4.0/
