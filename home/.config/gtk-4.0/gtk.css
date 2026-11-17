@@ -1,15 +1,3 @@
-/*
- * Match libadwaita (GTK4) surfaces to Ghostty's Graphite theme.
- *
- * Ghostty's Graphite terminal background is #1c1e22. libadwaita ships its
- * own hardcoded dark palette (window #222226, view #1d1d20, headerbar
- * #2e2e32) and does not take those from the GTK theme, so override its
- * CSS variables here instead.
- *
- * Only background surfaces are changed; foreground/accent colors are left
- * alone. No window borders or radii are set here, because the compositor
- * (rounded-window-corners) draws the 2px border for every app.
- */
 :root {
   --window-bg-color: #1C1E22;
   --view-bg-color: #1C1E22;
