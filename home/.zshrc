@@ -1,4 +1,3 @@
-
 export ZSH="$HOME/.oh-my-zsh"
 
 eval "$(starship init zsh)"
