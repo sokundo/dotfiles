@@ -2,6 +2,9 @@
 
 My gnome dotfiles
 
+## Screenshot
+<img src="./Screenshot/screenshot" alt="screenshot">
+
 ## Software
 - Ghostty ternimal with graphite theme and window decorations removed through setting.
 - zsh shell + oh my zsh and starship
